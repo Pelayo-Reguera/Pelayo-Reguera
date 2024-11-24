@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats-prg.vercel.app/api/top-langs/?username=pelayo-reguera&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=midnight-purple&bg_color=DEG,c9c9c9,ffffff,c9c9c9&hide_border=true&text_color=7f3ace" />
 </a>
 
-# 🔝My Top languages🔝
+### 🔝My Top languages🔝
 1. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 2. ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white)
 3. ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white)
