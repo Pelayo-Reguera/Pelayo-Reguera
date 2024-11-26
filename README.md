@@ -12,6 +12,7 @@
 <a href="https://github.com/pelayo-reguera">
   <img align="center" src="https://github-readme-stats-prg.vercel.app/api/top-langs/?username=pelayo-reguera&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=midnight-purple&bg_color=DEG,c9c9c9,ffffff,c9c9c9&hide_border=true&text_color=7f3ace" />
 </a>
+![cd](https://github-readme-stats-prg.vercel.app/api/top-langs/?username=pelayo-reguera&layout=compact&langs_count=20&size_weight=0.5&count_weight=0.5&theme=midnight-purple&bg_color=DEG,c9c9c9,ffffff,c9c9c9&hide_border=true&text_color=7f3ace)
 
 ### 🔝My Top languages🔝
 1. ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
