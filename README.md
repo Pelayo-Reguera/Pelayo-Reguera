@@ -57,9 +57,6 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=plastic&logo=kalilinux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
-### Currently working on🚀
-[![MyCity](https://github-readme-stats-prg.vercel.app/api/pin/?username=pelayo-reguera&repo=MyCity)](https://github.com/pelayo-reguera/MyCity)
-
 ### Contact me 📫
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=pelayosoftwareengineer@gmail.com&su=Hola,%20%C2%BFhablamos%3F&body=%C2%A1Hola%20buenas%21%0AQuer%C3%ADa%20preguntarte%20sobre%2E%2E%2E)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pelayo-reguera-garcia)
